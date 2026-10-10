@@ -1,7 +1,7 @@
 # Hello. My name is Mahad Asim Khawaja
 ### Frontend Developer and UI/UX Designer
 
-I am a Frontend Developer and UX/UI designer enrolled in Intermediate in Computer Science (ICS) at Hadaf College, Peshawar. I am skilled in building type-safe, scalable and highly optimized React applications from the complicated designs of interfaces.
+I am a Frontend Developer and UX/UI designer enrolled in Intermediate in Computer Science (ICS) at Hadaf College. I am skilled in building type-safe, scalable and highly optimized React applications from the complicated designs of interfaces.
 For the past 1.5 years, I have been learning the contemporary processes of web development by conducting extensive self-research. I use my knowledge of mathematics, physics and computer science to build analytical logic and algorithms in software engineering. You can check out my coding structure and implementations on my key production projects.
 
 ## MY PROJECTS:
