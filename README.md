@@ -32,7 +32,7 @@ For the past 1.5 years, I have been learning the contemporary processes of web d
 
 ## Skills:
 *   **Design & UI/UX:** User Interface Design, Wireframing, Layout Architecture, Visual Hierarchy, Responsive Frameworks.
-*   **Frontend Coding:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS v4 Custom Design Systems.
+*   **Frontend Coding:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS v4, Custom Design Systems.
 *   **Developer Tools:** Git, GitHub, NPM, VS Code Terminal, REST API Integration.
   
 ## TO CONTACT ME:
