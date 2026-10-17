@@ -25,6 +25,11 @@ For the past 1.5 years, I have been learning the contemporary processes of web d
 * **Source Code Repository:** [GitHub Repository](https://github.com/mahadasim-dev/ecommerce-shop)
 * **Focus:** Created an efficient shop grid system using a high-quality REST API. Handled intricate immutable state matrix arrays in React for multi-item real-time quantity synchronization and subtotal calculations at checkout through array reduction algorithms.
 
+### 4. To-Do List Application
+* **Live Application Link:** [Application Interface](https://mahadasim-dev.github.io/to-do-list/)
+* **Source Code Repository:** [GitHub Repository](https://github.com/mahadasim-dev/to-do-list)
+* **Focus:**
+
 ## Skills:
 *   **Design & UI/UX:** User Interface Design, Wireframing, Layout Architecture, Visual Hierarchy, Responsive Frameworks.
 *   **Frontend Coding:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Custom Design Systems.
